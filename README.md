@@ -51,7 +51,7 @@ Example:
 -
 function showMessage() {<br>
   alert( 'Hello everyone!' );<br>
-}<br><br><br>
+}<br><br>
 
 showMessage();<br>
 showMessage();<br>
