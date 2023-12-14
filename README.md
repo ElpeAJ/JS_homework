@@ -42,3 +42,19 @@ if/else statements<br>
 switch statements<br>
 loops.<br><br>
 
+Function Declaration
+-
+To create a function we can use a function declaration.<br>
+It looks like this:<br>
+
+Example:
+-
+function showMessage() {<br>
+  alert( 'Hello everyone!' );<br>
+}<br><br><br>
+
+showMessage();<br>
+showMessage();<br>
+
+
+
