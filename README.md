@@ -34,5 +34,11 @@ can be paused and resumed with the yield operator <br><br>
 Async function: returns a Promise; can be paused <br>
 and resumed with the await operator<br><br>
 Async generator function: returns an AsyncGenerator object;<br>
-both the await and yield operators can be used
+both the await and yield operators can be used<br><br>
+
+In JavaScript, there are three main types of control flow statements:
+--
+if/else statements<br>
+switch statements<br>
+loops.<br><br>
 
