@@ -23,7 +23,16 @@ Example:
 function myFunction(p1, p2) {<br>
   return p1 * p2;<br>
 }<br>
-console.log(myFunction(2, 4));
+console.log(myFunction(2, 4));<br>
 
+Defining functions
+--
+Regular function: can return anything; <br>
+always runs to completion after invocation<br><br>
+Generator function: returns a Generator object; <br>
+can be paused and resumed with the yield operator <br><br>
+Async function: returns a Promise; can be paused <br>
+and resumed with the await operator<br><br>
+Async generator function: returns an AsyncGenerator object;<br>
+both the await and yield operators can be used
 
--
